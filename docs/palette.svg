@@ -1,0 +1,45 @@
+<svg width="560" height="412" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="412" fill="#0B0F14" rx="14"/>
+
+  <!-- ACCENT -->
+  <text x="16" y="30" fill="#7D8794" font-family="system-ui,-apple-system,sans-serif" font-size="10" letter-spacing="1.8" font-weight="600">ACCENT</text>
+  <rect x="16"  y="40" width="120" height="54" fill="#FFD400" rx="8"/>
+  <rect x="146" y="40" width="120" height="54" fill="#FFC300" rx="8"/>
+  <rect x="276" y="40" width="120" height="54" fill="#FF8C00" rx="8"/>
+  <rect x="406" y="40" width="138" height="54" fill="#FF5F00" rx="8"/>
+  <text x="16"  y="110" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">yellow</text>
+  <text x="146" y="110" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">amber</text>
+  <text x="276" y="110" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">orange</text>
+  <text x="406" y="110" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">accent</text>
+  <text x="16"  y="124" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#FFD400</text>
+  <text x="146" y="124" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#FFC300</text>
+  <text x="276" y="124" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#FF8C00</text>
+  <text x="406" y="124" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#FF5F00</text>
+
+  <!-- SURFACE -->
+  <text x="16" y="158" fill="#7D8794" font-family="system-ui,-apple-system,sans-serif" font-size="10" letter-spacing="1.8" font-weight="600">SURFACE</text>
+  <rect x="16"  y="168" width="120" height="54" fill="#0B0F14" rx="8" stroke="#343A40" stroke-width="1"/>
+  <rect x="146" y="168" width="120" height="54" fill="#1A1D21" rx="8"/>
+  <rect x="276" y="168" width="120" height="54" fill="#22262D" rx="8"/>
+  <rect x="406" y="168" width="138" height="54" fill="#343A40" rx="8"/>
+  <text x="16"  y="238" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">background</text>
+  <text x="146" y="238" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">surface</text>
+  <text x="276" y="238" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">surfaceAlt</text>
+  <text x="406" y="238" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">border</text>
+  <text x="16"  y="252" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#0B0F14</text>
+  <text x="146" y="252" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#1A1D21</text>
+  <text x="276" y="252" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#22262D</text>
+  <text x="406" y="252" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#343A40</text>
+
+  <!-- TEXT -->
+  <text x="16" y="286" fill="#7D8794" font-family="system-ui,-apple-system,sans-serif" font-size="10" letter-spacing="1.8" font-weight="600">TEXT</text>
+  <rect x="16"  y="296" width="166" height="54" fill="#F5F7FA" rx="8"/>
+  <rect x="192" y="296" width="166" height="54" fill="#A7B0BA" rx="8"/>
+  <rect x="368" y="296" width="176" height="54" fill="#7D8794" rx="8"/>
+  <text x="16"  y="366" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">textPrimary</text>
+  <text x="192" y="366" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">textSecondary</text>
+  <text x="368" y="366" fill="#F5F7FA" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="500">textMuted</text>
+  <text x="16"  y="380" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#F5F7FA</text>
+  <text x="192" y="380" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#A7B0BA</text>
+  <text x="368" y="380" fill="#7D8794" font-family="ui-monospace,monospace" font-size="11">#7D8794</text>
+</svg>

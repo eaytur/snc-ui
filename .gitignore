@@ -1,0 +1,7 @@
+build/
+.qtc_clangd/
+.qmake.stash
+*.user
+*.user.*
+CMakeUserPresets.json
+.claude/
